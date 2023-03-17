@@ -22,7 +22,7 @@
 
 JVM은 쉽게 '자바를 실행하기 위한 가상 컴퓨터' 라고 이해하면 좋다.
 
-[##_Image|kage@bw7hlq/btr4guxgZp5/OkKCKBmMFwSIE062b9CSLK/img.png|CDM|1.3|{"originWidth":696,"originHeight":342,"style":"alignCenter","width":429,"height":211,"filename":"스크린샷 2023-03-17 오전 12.15.19.png"}_##]
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbw7hlq%2Fbtr4guxgZp5%2FOkKCKBmMFwSIE062b9CSLK%2Fimg.png)
 
 -   일반 애플리케이션에 비해 Java애플리케이션은 JVM을 한 번 더 거치기 때문에, 그리고 하드웨어에 맞게 완전히 컴파일된 상태가 아니고 실행 시에 해석되기 때문에 속도가 느리다는 단점이 있다.
 -   일반 애플리케이션은 OS와 붙어있기 때문에 OS종속적이다. 그래서 다른 OS를 실행시키기 위해서는 변경을 해야한다. 반면에, Java애플리케이션은 JVM하고만 상호작용 하기 때문에 OS와 하드웨어에 독립적이라 다른 OS에서도 변경없이 실행이 가능하다.
